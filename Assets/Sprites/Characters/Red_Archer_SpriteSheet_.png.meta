@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: da5b7e1c226edbd4e91b0623c6d4a1f5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1884767929911756801
+    second: Red_Archer_SpriteSheet__0
+  - first:
+      213: 8916427086936642431
+    second: Red_Archer_SpriteSheet__1
+  - first:
+      213: -8088755196950932129
+    second: Red_Archer_SpriteSheet__2
+  - first:
+      213: 4809973829303310119
+    second: Red_Archer_SpriteSheet__3
+  - first:
+      213: -8772460503506049805
+    second: Red_Archer_SpriteSheet__4
+  - first:
+      213: 835339032681834671
+    second: Red_Archer_SpriteSheet__5
+  - first:
+      213: -4446312636617317607
+    second: Red_Archer_SpriteSheet__6
+  - first:
+      213: 7124559315765171014
+    second: Red_Archer_SpriteSheet__7
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 350
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Red_Archer_SpriteSheet__0
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 299
+        width: 286
+        height: 184
+      alignment: 9
+      pivot: {x: 0.5021901, y: 0.040418543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1084072427a082a10800000000000000
+      internalID: 1884767929911756801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Archer_SpriteSheet__1
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 324
+        width: 124
+        height: 91
+      alignment: 9
+      pivot: {x: 0.055463236, y: 0.9198897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73978eb1338dbb70800000000000000
+      internalID: 8916427086936642431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Archer_SpriteSheet__2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 258
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5515a22108febf80800000000000000
+      internalID: -8088755196950932129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Archer_SpriteSheet__3
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 203
+        width: 152
+        height: 73
+      alignment: 9
+      pivot: {x: 0.49587893, y: 0.83464825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7279c82a6b570c240800000000000000
+      internalID: 4809973829303310119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Archer_SpriteSheet__4
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 128
+        width: 88
+        height: 110
+      alignment: 9
+      pivot: {x: 0.6210074, y: 0.37472174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4a06a86a5f14680800000000000000
+      internalID: -8772460503506049805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Archer_SpriteSheet__5
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 132
+        width: 15
+        height: 41
+      alignment: 9
+      pivot: {x: 0.4746928, y: 0.8796223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8e406ac68b79b00800000000000000
+      internalID: 835339032681834671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Archer_SpriteSheet__6
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 131
+        width: 15
+        height: 42
+      alignment: 9
+      pivot: {x: 0.601237, y: 0.9067379}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913281ee6368b42c0800000000000000
+      internalID: -4446312636617317607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Archer_SpriteSheet__7
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 111
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643126d33f48fd260800000000000000
+      internalID: 7124559315765171014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
